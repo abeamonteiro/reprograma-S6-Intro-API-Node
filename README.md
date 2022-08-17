@@ -1,6 +1,5 @@
-# On16-TodasEmTech-s6-Intro-API-Node
-Turma Online 16 | Back-end | 2022 | Introdução à API:
-HTTP e NodeJS
+# Introdução à API-HTTP-Node
+Este repositório corresponde à sexta semana de aula no curso em BackEnd pelo projeto Todas em Tech da iniciativa Reprograma. Nesta semana nos aproximamos dos conceitos de API, NODE e HTTP.
 
 ## Para casa
 Abra o PullRequest Respondendo as seguintes questões:
