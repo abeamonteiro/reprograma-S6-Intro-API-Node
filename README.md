@@ -1,5 +1,5 @@
 # Introdução à API-HTTP-Node
-Este repositório corresponde à sexta semana de aula no curso em BackEnd pelo projeto Todas em Tech da iniciativa Reprograma. Nesta semana nos aproximamos dos conceitos de API, NODE e HTTP.
+Este repositório corresponde à sexta semana de aula no curso em BackEnd pelo projeto Todas em Tech da iniciativa Reprograma. Nesta semana nos aproximamos dos conceitos de API, NODE e HTTP em aula ministrada pela professora Paula Allemand.
 
 ## Para casa
 Abra o PullRequest Respondendo as seguintes questões:
@@ -20,3 +20,7 @@ Abra o PullRequest Respondendo as seguintes questões:
 4) Defina o conceito de idempotência e como uma API pode ser idempotente
 
 5) Cite alguns diferentes padrões de projetos de software
+
+
+## Repositório da aula:
+https://github.com/reprograma/On16-TodasEmTech-S6-Intro-API-Node
